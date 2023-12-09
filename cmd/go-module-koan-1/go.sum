@@ -1,0 +1,6 @@
+github.com/brandur/go-module-koan-1 v0.0.1 h1:AN+9R3pzkh61cwyrws4pKCNtMsuxPfxqw70hQXJ1oe8=
+github.com/brandur/go-module-koan-1 v0.0.1/go.mod h1:SiU0rUuVBHGavfBkrg3L48QZ1C6INOl1puHwN+4fhUA=
+github.com/brandur/go-module-koan-1/koandriver v0.0.1 h1:z/nfRzF2AYWrS5RHCNFekvMvwoW3FUqrb9s4cgVgoYs=
+github.com/brandur/go-module-koan-1/koandriver v0.0.1/go.mod h1:WwfBAVICrIvBovKDrRQfXBg3p43zmi+x99Mh6GrrlU4=
+github.com/brandur/go-module-koan-1/koandriver/koanpgxv5 v0.0.1 h1:4PeSjnxBCFK+3hSrZLhwvaAVEEGysKHd16IaWxMVET4=
+github.com/brandur/go-module-koan-1/koandriver/koanpgxv5 v0.0.1/go.mod h1:PQq8YtPF7xXbK0qDT8YDD/9+2GzIciBBe/C6JeM1DVM=
