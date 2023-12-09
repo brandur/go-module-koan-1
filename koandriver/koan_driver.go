@@ -1,0 +1,3 @@
+package koandriver
+
+func DriverFunc() {}
